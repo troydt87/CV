@@ -1,5 +1,5 @@
 body{
-  background-color:white;
+  background-color:#A8D8EA;
 }
 
 h1 {color:BLUE;}
@@ -7,8 +7,9 @@ h3 {color:Black;}
 
 hr {
 border-style: none;
-border-top-style: solid;
+border-top-style:dotted;
 border-color: blue;
-border-width: 5px;
+border-width: 3px;
 width: 100%;
 }
+
