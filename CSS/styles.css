@@ -1,0 +1,14 @@
+body{
+  background-color:white;
+}
+
+h1 {color:BLUE;}
+h3 {color:Black;}
+
+hr {
+border-style: none;
+border-top-style: solid;
+border-color: blue;
+border-width: 5px;
+width: 100%;
+}
